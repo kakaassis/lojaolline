@@ -1,0 +1,36 @@
+.k {
+    text-align: center;
+    background-color: #560256eb;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+table,
+th,
+td {
+
+border: 0px solid;
+width: 60%;
+background-color: #b027b0eb ;
+border-collapse: collapse;
+color: rgb(0, 0, 0);
+border-collapse: collapse;/* Junta as bordas */
+border-radius: 10px;/* Arredonda as bordas da tabela */
+overflow: hidden;/* Garante que as bordas arredondadas sejam aplicadas corretamente */
+padding: 12px;
+
+}
+
+body {
+    background-color: rgb(205, 67, 227);
+}
+
+.img{
+    text-align: center;
+}
+
+.button {
+    border-radius: 30px;
+    color:white; 
+    background-color:#560256eb ;
+}
